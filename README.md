@@ -20,3 +20,25 @@ This is my first [React.js](https://react.dev/) and [Next.js](https://nextjs.org
 ![Static badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+## Overview Mobile
+
+![Gif mobile](./public/overview_mobile.gif)
+
+## Overview Screen - Home
+
+![Page home](./public/home.png)
+
+## Overview Screen - About
+
+![Page about](./public/about.png)
+
+
+## Overview Screen - Projects
+
+![Page projects](./public/projects.png)
+
+## Overview Screen - Contact
+
+![Page projects](./public/contact.png)
